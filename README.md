@@ -1,4 +1,4 @@
 WebCSS
 ======
 
-Our web site style repository
+Working CSS style repository for the RMM Wordpress and Mediawiki css stylesheets.
